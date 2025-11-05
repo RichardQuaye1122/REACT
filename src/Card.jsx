@@ -34,6 +34,9 @@ const App = () => {
                 This artwork portrays the deep connection between Africa and its people. 
                 It features a strong, graceful woman whose face blends into the African continent.
               </p>
+              <button className="bg-blue-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-blue-600 hover:text-white transition duration-300">
+              Get Started
+              </button>
             </div>
           </div>
 
@@ -46,6 +49,9 @@ const App = () => {
                 This artwork portrays the beauty and pride of South African culture. 
                 It features a woman adorned in colorful traditional beadwork, symbolizing strength, identity, and heritage.
               </p>
+              <button className="bg-blue-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-blue-600 hover:text-white transition duration-300">
+              Get Started
+              </button>
             </div>
           </div>
 
@@ -58,6 +64,9 @@ const App = () => {
                 This artwork celebrates Ghanaian culture and heritage. 
                 It features three women dressed in vibrant Kente cloth and adorned with traditional gold jewelry, symbolizing royalty and elegance.
               </p>
+              <button className="bg-blue-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-blue-600 hover:text-white transition duration-300">
+              Get Started
+              </button>
             </div>
           </div>
 
